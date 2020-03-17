@@ -13,7 +13,7 @@ Run the following command in Magento 2 root folder:
 ### General Ajaxcontact
 #### Add Ajax Contact Form Widget
 Go to `Admin Panel > Content > Pages => Choose Page you want add contact from.`
-![widget-img](https://github.com/magepow/ajax-contact/blob/master/media/ajaxcontact_widget.png)
+![widget-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_widget.png)
 
 Select `Ajax Contact From Widget` to add widget.
 #### Save Page
