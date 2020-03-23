@@ -24,13 +24,23 @@ Select `Ajax Contact From Widget` to add widget.
  #### Result Ajax after submit form
  ![ajaxcontact_submit-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_result.png)
 
-**Other free extensions**
+**Free list extensions**
 
 * [Magento 2 Recent Sales Notification](https://magepow.com/magento-2-recent-sales-notification.html)
 
 * [Magento Categories Extension](https://magepow.com/magento-categories-extension.html)
 
 * [Magento Sticky Cart](https://magepow.com/magento-sticky-cart.html)
+
+**Premium list extensions**
+
+* [Magento Speed Optimizer](https://magepow.com/magento-speed-optimizer.html)
+
+* [Magento 2 Mutil Translate](https://magepow.com/magento-multi-translate.html)
+
+* [Magento 2 Instagram Integration](https://magepow.com/magento-2-instagram.html)
+
+* [Lookbook Pin Products](https://magepow.com/lookbook-pin-products.html)
 
 **Featured Magento services**
 
