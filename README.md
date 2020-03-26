@@ -12,10 +12,10 @@ Run the following command in Magento 2 root folder:
 **Magepow Ajaxcontact** allows add a contact form to any page quickly and conveniently.
 ### General Ajaxcontact
 #### Add Ajax Contact Form Widget
-Go to `Admin Panel > Content > Pages => Choose Page you want add contact from.`
+Go to `Admin Panel > Content > Pages => Choose Page you want add contact form.`
 ![widget-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_widget.png)
 
-Select `Ajax Contact From Widget` to add widget.
+Select `Ajax Contact Form Widget` to add widget.
 #### Save Page
 ![widget-sav-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_add.png)
 ### This Is Result In Frontend
