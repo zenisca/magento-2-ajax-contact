@@ -32,6 +32,10 @@ Select `Ajax Contact Form Widget` to add widget.
 
 * [Magento Sticky Cart](https://magepow.com/magento-sticky-cart.html)
 
+* [Magento Ajax Contact](https://magepow.com/magento-ajax-contact-form.html
+
+* [Magento Lazy Load](https://magepow.com/magento-lazy-load.html)
+
 **Premium Extensions List**
 
 * [Magento Speed Optimizer](https://magepow.com/magento-speed-optimizer.html)
@@ -41,6 +45,10 @@ Select `Ajax Contact Form Widget` to add widget.
 * [Magento 2 Instagram Integration](https://magepow.com/magento-2-instagram.html)
 
 * [Lookbook Pin Products](https://magepow.com/lookbook-pin-products.html)
+
+* [Magento Product Slider](https://magepow.com/magento-product-slider.html)
+
+* [Magento Product Banner](https://magepow.com/magento-banner-slider.html)
 
 **Featured Magento services**
 
@@ -59,6 +67,20 @@ Select `Ajax Contact Form Widget` to add widget.
 * [Customization Service](https://magepow.com/customization-service.html)
 
 * [Hire Magento Developer](https://magepow.com/hire-magento-developer.html)
+
+**Featured Magento Themes**
+
+* [Gecko](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/gecko-responsive-magento-2-theme-rtl-supported/24677410)
+
+* [Market](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/market-responsive-magento-2-theme/22997928)
+
+* [Expert](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/expert-premium-responsive-magento-2-and-1-support-rtl-magento-2-/21667789)
+
+* [Milano](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/milano-fashion-responsive-magento-1-2-theme/12141971)
+
+* [Electro](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/electro-responsive-magento-1-2-theme/17042067)
+
+* [Biolife](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/biolife-organic-food-magento-2-theme-rtl-supported/25712510)
 
 [![Latest Stable Version](https://poser.pugx.org/magepow/ajaxcontact/v/stable)](https://packagist.org/packages/magepow/ajaxcontact)
 [![Total Downloads](https://poser.pugx.org/magepow/ajaxcontact/downloads)](https://packagist.org/packages/magepow/ajaxcontact)
