@@ -32,9 +32,9 @@ Select `Ajax Contact Form Widget` to add widget.
 
 * [Magento Sticky Cart](https://magepow.com/magento-sticky-cart.html)
 
-* [Magento Ajax Contact](https://magepow.com/magento-ajax-contact-form.html
+* [Magento Ajax Contact](https://magepow.com/magento-ajax-contact-form.html)
 
-* [Magento Lazy Load](https://magepow.com/magento-lazy-load.html)
+* [Magento Ajax Contact](https://magepow.com/magento-lazy-load.html)
 
 **Premium Extensions List**
 
