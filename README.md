@@ -70,8 +70,6 @@ Select `Ajax Contact Form Widget` to add widget.
 
 **Featured Magento Themes**
 
-**Featured Magento Themes**
-
 * [Expert Multipurpose responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/expert-premium-responsive-magento-2-and-1-support-rtl-magento-2-/21667789)
 
 * [Gecko Premium responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/gecko-responsive-magento-2-theme-rtl-supported/24677410)
