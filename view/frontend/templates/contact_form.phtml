@@ -91,7 +91,7 @@ require(
             e.preventDefault();
             var form = this;
             if($(form).validation() && !$(form).validation('isValid')) return;
-            var grecaptcha = $('[name=g-recaptcha-response]');
+            var grecaptcha = $(form).find('[name=g-recaptcha-response]');
             if(grecaptcha.length && !grecaptcha.val()) {
             	alert($.mage.__('Please enter captcha.'));
             	return;
