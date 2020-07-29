@@ -3,11 +3,12 @@
 ### ✓ Install Magepow Ajaxcontact via composer (recommend)
 Run the following command in Magento 2 root folder:
 
-`composer require magepow/ajaxcontact`
+```
+composer require magepow/ajaxcontact
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy -f
+```
 
-`php bin/magento setup:upgrade`
-
-`php bin/magento setup:static-content:deploy -f`
 ## 2. Magepow Ajaxcontact user guide
 **Magepow Ajaxcontact** allows add a contact form to any page quickly and conveniently.
 ### General Ajaxcontact
@@ -23,6 +24,13 @@ Select `Ajax Contact Form Widget` to add widget.
  
  #### Result Ajax after submit form
  ![ajaxcontact_submit-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_result.png)
+
+## Donation
+
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/alopay)
+
 
 **Free Extensions List**
 
