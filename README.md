@@ -5,12 +5,15 @@ The Ajaxcontact block is Responsive Web Design (RWD) ready. It will recalculate 
 
 ### Highlight features
 - Allow use Widget to add a contact form to any page quickly and conveniently.
+
 If you want to collect customer's opinions/questions on any page on the Magento website, the Ajax Contact Form extension is the right choice for all e-commerce stores. You can put a contact form on the homepage, product detail page, category page, blog, ... quickly with a few basic operations in the admin panel.
 
 - Ajax integration speeds up form submissions
+
 Build an Ajax-based contact form, A customer submits information in the contact form without reloading the page or redirects to the contact page. After the client clicked on the submit form button, the successfully submit notice is visible right on the current page.
 
 - Unlimited number of contact forms
+
 This extension allows administrators to customize the number of contact blocks to suit the store's layout. However, not using too much on a page will hinder the customer learning process.
 
 - All forms are stored in Magento 2 admin panel
