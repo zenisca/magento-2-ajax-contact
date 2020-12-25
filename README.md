@@ -1,6 +1,34 @@
-**Magento 2 Ajaxcontact extension** (Magepow Ajaxcontact Extension) for Magento allows the customer to submit the form with ajax without redirect to the contact page. Additionally,  you can add to anywhere with widget use "Ajax Contact Form Widget". The Ajaxcontact block is Responsive Web Design (RWD) ready. It will recalculate itself based on the parent.
-## 1. How to install Magento 2 Ajaxcontact
-### ✓ Install Magepow Ajaxcontact via composer (recommend)
+## Ajax Contact Extension For Magento 2
+Magento 2 Ajax Contact Extension allows the customer to submit the form with ajax without redirect to the contact page. Additionally, you can add to anywhere with widget use "Ajax Contact Form Widget". 
+
+The Ajaxcontact block is Responsive Web Design (RWD) ready. It will recalculate itself based on the parent.
+
+### Highlight features
+- Allow use Widget to add a contact form to any page quickly and conveniently.
+If you want to collect customer's opinions/questions on any page on the Magento website, the Ajax Contact Form extension is the right choice for all e-commerce stores. You can put a contact form on the homepage, product detail page, category page, blog, ... quickly with a few basic operations in the admin panel.
+
+- Ajax integration speeds up form submissions
+Build an Ajax-based contact form, A customer submits information in the contact form without reloading the page or redirects to the contact page. After the client clicked on the submit form button, the successfully submit notice is visible right on the current page.
+
+- Unlimited number of contact forms
+This extension allows administrators to customize the number of contact blocks to suit the store's layout. However, not using too much on a page will hinder the customer learning process.
+
+- All forms are stored in Magento 2 admin panel
+
+- Responsive. It will calculate itself based on the original layout
+
+- Easy to use and customize
+
+- Contact form design suitable for many types of stores
+
+
+[![Latest Stable Version](https://poser.pugx.org/magepow/ajaxcontact/v/stable)](https://packagist.org/packages/magepow/ajaxcontact)
+[![Total Downloads](https://poser.pugx.org/magepow/ajaxcontact/downloads)](https://packagist.org/packages/magepow/ajaxcontact)
+
+## How to use Ajax Contact Form extension for Magento 2
+
+### 1. How to install Magento 2 Ajaxcontact
+#### ✓ Install Magepow Ajaxcontact via composer (recommend)
 Run the following command in Magento 2 root folder:
 
 ```
@@ -9,20 +37,20 @@ php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy -f
 ```
 
-## 2. Magepow Ajaxcontact user guide
+### 2. Magepow Ajaxcontact user guide
 **Magepow Ajaxcontact** allows add a contact form to any page quickly and conveniently.
-### General Ajaxcontact
-#### Add Ajax Contact Form Widget
+#### General Ajaxcontact
+##### Add Ajax Contact Form Widget
 Go to `Admin Panel > Content > Pages => Choose Page you want add contact form.`
 ![widget-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_widget.png)
 
 Select `Ajax Contact Form Widget` to add widget.
-#### Save Page
+##### Save Page
 ![widget-sav-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_add.png)
-### This Is Result In Frontend
+#### This Is Result In Frontend
  ![ajaxcontact_submit-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_submit.png)
  
- #### Result Ajax after submit form
+ ##### Result Ajax after submit form
  ![ajaxcontact_submit-img](https://github.com/magepow/magento2-ajax-contact/blob/master/media/ajaxcontact_result.png)
 
 ## Donation
@@ -94,7 +122,5 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 * [Kuteshop responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/kuteshop-multipurpose-responsive-magento-1-2-theme/12985435)
 
-[![Latest Stable Version](https://poser.pugx.org/magepow/ajaxcontact/v/stable)](https://packagist.org/packages/magepow/ajaxcontact)
-[![Total Downloads](https://poser.pugx.org/magepow/ajaxcontact/downloads)](https://packagist.org/packages/magepow/ajaxcontact)
 
 
